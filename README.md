@@ -1,10 +1,10 @@
 # **User Acquisition Performance Analysis: Agents vs Influencer - Project Overview**
 
-A fantasy sports platform, established in **2023**, targeting the **Indian market**, where users join **paid contests daily**.
+A **B2C fintech platform, established in 2023, targeting the Indian market**, where users engage in gamified financial activities through a wallet and voucher system.
 
-Following the **February crisis**, which caused a significant loss of player trust, the company initiated efforts to **rebuild user confidence and accelerate growth**. As part of this recovery plan, the company explored onboarding a **high-profile influencer** for the first time to evaluate whether her involvement could deliver meaningful business impact despite the high upfront partnership cost.
+Following the **February crisis**, which caused a significant loss of user trust, the company initiated efforts to **rebuild user confidence and accelerate growth**. As part of this recovery plan, the company explored onboarding a **high-profile influencer** for the first time to evaluate whether her involvement could deliver meaningful business impact despite the high upfront partnership cost.
 
-This project was designed to **test and compare the influencer’s performance against the existing agent acquisition program**, helping guide future decisions on whether to invest further in influencer marketing or continue expanding the agent network through higher cost of partnership.
+This project was designed to **test and compare the influencer’s performance against the existing agent acquisition program**, helping guide future decisions on whether to invest further in influencer marketing or continue scaling the agent network for acquisition growth.
 
 The analysis was conducted from **March to the end of April 2025** and was actively used in decision-making discussions with the Operations Manager, Finance Lead, and Promotion Coordinator.
 
@@ -92,7 +92,7 @@ This highlights the influencer’s exceptional ability not only to acquire but a
 
 - **Maximize Influencer’s Impact for Premium Campaigns and Platform Scale-Up**
     
-    Despite acquiring fewer new users, the influencer consistently delivered **outstanding performance —achieving 48% conversion, 65% retention, and ₹2,177 average revenue per paying user**. Her exceptional ability to **attract and engage high-value users** presents a unique opportunity to not only **boost profitability** but also **elevate user experience and scale up the platform through a more loyal and premium player base**.
+    Despite acquiring fewer new users, the influencer consistently delivered **outstanding performance —achieving 48% conversion, 65% retention, and ₹2,177 average revenue per paying user**. Her exceptional ability to **attract and engage high-value users** presents a unique opportunity to not only **boost profitability** but also **elevate user experience and scale up the platform through a more loyal and premium user base**.
 
 - **Establish a Data-Driven Cost Benchmark for Influencer Negotiations**
     
